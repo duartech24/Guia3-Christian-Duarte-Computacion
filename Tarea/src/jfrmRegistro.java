@@ -98,7 +98,7 @@ public class jfrmRegistro extends javax.swing.JFrame {
         jButton3.addActionListener(this::jButton3ActionPerformed);
 
         jLabel8.setFont(new java.awt.Font("Helvetica Neue", 0, 8)); // NOI18N
-        jLabel8.setText("Christian Javier Carrillo Lucas IVD Clave:3");
+        jLabel8.setText("Christian Eduardo Duarte López IVD D Clave 7");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
