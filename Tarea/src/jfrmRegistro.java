@@ -8,7 +8,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author macintosh
+ * @author christianduarte
  */
 public class jfrmRegistro extends javax.swing.JFrame {
     
